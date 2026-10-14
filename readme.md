@@ -30,10 +30,3 @@ Before running this project, ensure you have the following installed on your sys
    ```bash
    python -m venv venv
 
-
-## Connect with Me
-
-GitHub:  https://github.com/YashSharmaECE
-Project Repository:  https://github.com/YashSharmaECE/EWB-Internship-Project-Students-Database-CRUD-Application
-
-Author: Yash Sharma
