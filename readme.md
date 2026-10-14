@@ -1,5 +1,8 @@
 # EWB Internship Project: Students Database CRUD Application
 
+Developed by: Yash Sharma
+Technology Stack: Python | FastAPI | SQLite | SQLAlchemy | Ollama AI
+
 This repository contains the backend source code for the Students Database CRUD Application, developed as part of the EWB Edu Tech Pvt. Ltd. Internship Program. The application is built using Python, FastAPI, and SQLite for persistent data storage. It also features an optional local AI integration using Ollama.
 
 ## Features
@@ -20,7 +23,15 @@ Before running this project, ensure you have the following installed on your sys
 2. **Create a virtual environment:**
 
 ## Screenshots
-<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/a6a157b5-0860-4fbf-b736-8dcc963417db" />
+<img width="1920" height="1080" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/09573284-3324-4bfe-b089-9ce6e7633640" />
+
 
    ```bash
    python -m venv venv
+
+## Connect with Me
+
+- **GitHub:** https://github.com/YashSharmaECE
+- **Project Repository:** https://github.com/YashSharmaECE/EWB-Internship-Project-Students-Database-CRUD-Application
+
+**Author:** Yash Sharma
